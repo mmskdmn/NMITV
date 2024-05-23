@@ -1,0 +1,30 @@
+.movie-section {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .movie-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .movie {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .movie img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .movie h3 {
+    margin: 0 0 10px;
+  }
+  
+  .movie p {
+    margin: 0;
+  }
+  
